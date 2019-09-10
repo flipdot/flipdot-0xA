@@ -1,0 +1,4 @@
+telnetlib3
+asciimatics
+requests
+tabulate
